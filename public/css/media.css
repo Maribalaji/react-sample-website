@@ -1,0 +1,180 @@
+@media(min-width:320px){
+    /* about section */
+    .about-col{
+        width:100%;
+
+}
+
+/* contact */
+.contact-row2{
+    display:flex;
+    width:100%;
+    flex-wrap:wrap;
+}
+.contact-col2{
+   width:100%;
+}
+
+.form-row{
+   display:flex;
+   width:100%;
+   flex-wrap:wrap;
+}
+.form-col{
+   width:100%;
+}
+/* card */
+.team-row{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap
+}
+	
+.team-col{
+	width:100%;
+}
+
+/* footer-section */
+.footer-container{
+    width:90%;
+    margin: auto;
+}
+.footer-col{
+    width:100%;
+}
+.end-col{
+    width: 100%;
+}
+.end-col1{
+    width:100%;
+}
+
+/* crud */
+.addform{
+    width: 80%;
+    
+    
+  
+  }
+
+
+}
+
+
+/* ipad */
+@media(min-width:660px){
+    .about-col{
+        width:100%;
+
+}
+/* contact */
+
+.contact-row2{
+    display:flex;
+    width:100%;
+}
+.contact-col2{
+   width:50%;
+}
+
+.form-row{
+   display:flex;
+   width:100%;
+   flex-wrap:wrap;
+}
+.form-col{
+   width:50%;
+}
+
+/* card */
+.team-row{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+}
+	
+.team-col{
+	width:30%;
+}
+
+/* footer-section */
+.footer-container{
+    width:95%;
+    margin: auto;
+}
+.footer-col{
+    width:45%;
+}
+.end-col{
+    width: 100%;
+}
+.end-col1{
+    width:100%;
+}
+
+/* crud */
+.addform{
+    width: 80%;
+    
+    
+  
+  }
+}
+
+/* laptop */
+@media(min-width:960px){
+    .about-col{
+        width:50%;
+
+}
+
+/* contact */
+.contact-row2{
+    display:flex;
+    width:100%;
+}
+.contact-col2{
+   width:50%;
+}
+
+.form-row{
+   display:flex;
+   width:100%;
+}
+.form-col{
+   width:49%;
+}
+/* card */
+.team-row{
+	display:flex;
+	width:100%;
+
+}
+	
+.team-col{
+	width:32%;
+}
+
+/* footer-section */
+.footer-container{
+    width:100%;
+    margin: auto;
+}
+.footer-col{
+    width:20%;
+}
+.end-col{
+    width: 70%;
+}
+.end-col1{
+    width:30%;
+}
+/* crud */
+.addform{
+    width: 30%;
+    
+    
+  
+  }
+
+}

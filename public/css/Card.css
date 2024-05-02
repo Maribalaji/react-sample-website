@@ -1,0 +1,43 @@
+.team-cont{
+	text-align:center;
+	padding:30px 0px;
+}
+.team-cont h1{
+	text-shadow:-8px -8px 1px rgba(189, 189, 189,0.5);
+}
+/* .team-row{ 
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+ } */
+	
+.team-col{
+	/* width:49%; */
+	text-align:center;
+	box-shadow:0px 0px 4px #bfbfbf;
+	padding:30px 10px;
+	margin:5px;
+}
+	
+.team-col img{
+	border-radius:50%;
+	width:50%;
+}
+	
+.col-para{
+	padding:10px;
+	font-style:italic;
+}
+.col-para1{
+	padding:10px;
+	font-style:italic;
+	color:rgb(156, 154, 154);
+	
+}
+.icon{
+	color:rgb(179, 177, 177);
+	padding:10px;
+}
+.icon:hover{
+	color:rgb(186, 37, 37);
+}

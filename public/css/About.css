@@ -1,0 +1,46 @@
+
+
+.about-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 8%;
+}
+.about-col{
+    /* width:50%; */
+    padding: 10px;
+
+}
+.about-col h1{
+    font-size: 43px;
+    line-height: 1.5;
+}
+.about-col h4{
+    padding-top: 20px;
+    font-size: 30px;
+    color: rgb(83, 81, 81);
+    font-weight: 600;
+}
+.about-para{
+    font-size: 22px;
+    padding: 10px 0;
+    line-height: 1.3;
+    color: rgb(75, 75, 75);
+}
+.about-col li{
+    list-style: none;
+    padding: 10px 0px;
+    font-size: 21px;
+    color:  rgb(75, 75, 75);
+}
+.about-col li i{
+    color: green;
+    padding: 0 7px;
+
+}
+.abt-para{
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(75, 75, 75);
+    padding: 10px 0;
+}

@@ -1,0 +1,42 @@
+.form-login{
+    text-align: center;
+    margin: auto;
+    margin-top: 6%;
+    width:50%;
+    padding: 20px 0px;
+    box-shadow: 0 0 5px gainsboro;
+    background-color:antiquewhite;
+    border-radius: 5px;
+  
+    
+  }
+  .login-cont{
+    padding: 20px 0px;
+  
+    
+  }
+  .logform{
+    width:60%;
+    padding: 5px 15px;
+    margin: 5px;
+  }
+  .btn-log{
+    margin: 10px 0px;
+    padding: 8px 30px;
+    background-color: #61dafb;
+    border-radius: 5px;
+  }
+
+  
+
+  .dash{
+    text-align: center;
+  }
+  .dash-btn{
+    padding: 8px 16px;
+    background-color: rgb(241, 89, 89);
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+  }
+  
